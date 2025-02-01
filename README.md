@@ -15,7 +15,7 @@ Using GoogleNet (InceptionNet) as a second model, modifying it by adding a Linea
 Comparing accuracy between the custom CNN and GoogleNet models.
 
 Dataset:
-The dataset consists of three custom categories (e.g., Cats, Dogs, and Birds).
+The dataset consists of three custom categories (e.g., glass, paper, and plastic).
 Each category contains at least 100 images.
 Images are preprocessed and resized before being fed into the CNN.
 
